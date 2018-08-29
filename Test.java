@@ -45,6 +45,11 @@ public class Test
             return p.toUpperCase();
         }
 
+        public void newMethod()
+        {
+            System.out.println("Hello");
+        }
+
         public int getWheels()
         {
             return wheels;
